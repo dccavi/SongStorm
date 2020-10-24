@@ -197,6 +197,7 @@
     <Content Include="Views\Shared\_Sidebar.cshtml" />
     <Content Include="Views\Shared\_Workspace.cshtml" />
     <Content Include="Views\Shared\_WriteSpace.cshtml" />
+    <Content Include="Views\Generator\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\umd\popper.min.js.map" />
