@@ -12,7 +12,7 @@ namespace SongStorm
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Generator", action = "Generator", id = UrlParameter.Optional }
+                defaults: new { controller = "Generator", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
